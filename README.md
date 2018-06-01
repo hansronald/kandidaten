@@ -1,4 +1,4 @@
-# Bachelor thesis in mathematical statistics
+# Bachelor's thesis in mathematical statistics
 
 *Code for bachelor thesis High-dimensional inverse covariance estimation - evaluation of new method using Graphical Lasso.*
 
