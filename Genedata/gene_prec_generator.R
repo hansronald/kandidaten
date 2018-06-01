@@ -1,6 +1,8 @@
 
-setwd("~/Google Drive/Skola/Kandidatarbete drive/Kod/Simuleringskod")
+
 source("Functions.R")
+
+# Files TEs.RData and tfnet.RData has to be requested from robin.lindstrom@gmail.com
 load("genedata/TEs.RData")
 write.csv(TEs, file = "TEs.csv")
 load("genedata/tfnet.RData")

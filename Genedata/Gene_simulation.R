@@ -1,8 +1,6 @@
 # Load packages
 
-#setwd("/Users/rebecka/Documents/Dokument/MSG900/Kod/")
-setwd("~/Documents/msg900/Rcode/gene")
-#setwd("~/Google Drive/Skola/Kandidatarbete drive/Kod/Simuleringskod")
+# Files TEs.RData and tfnet.RData has to be requested from robin.lindstrom@gmail.com
 
 source("Functions_gene.R")
 sapply(c("huge", "expm", "corrplot", "coop", "igraph", "dbscan", "rowr", "pracma", "tictoc", "fields", "xtable"),
