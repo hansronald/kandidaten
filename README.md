@@ -2,7 +2,7 @@
 
 Code for bachelor thesis High-dimensional inverse covariance estimation - evaluation of new method using Graphical Lasso.
 
-Abstract\\
+Abstract \n
 Partial correlation between variables can be obtained implicitly through the precision matrix.
 To estimate the precision matrix, the covariance matrix, computed from data, can be inverted.
 Problems arise when the number of variables p is larger than the number of observations n,
