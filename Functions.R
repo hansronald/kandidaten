@@ -4,7 +4,6 @@
 # Lovisa Köllerström,  Robin Lindström. Gothenburg University 2018 .     #
 ##########################################################################
 
-if (exists("find_opt_sparsity") ) rm(find_opt_sparsity)
 
 # --------------------- Functions ---------------------
 

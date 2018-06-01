@@ -1,5 +1,4 @@
 # Load packages
-setwd("~/Google Drive/Skola/Kandidatarbete drive/Kod/Simuleringskod")
 
 source("Functions.R")
 sapply(c("huge", "expm", "corrplot", "coop", "igraph", "dbscan", "rowr", "pracma", "tictoc", "fields", "xtable"),
